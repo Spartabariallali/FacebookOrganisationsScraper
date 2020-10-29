@@ -21,7 +21,7 @@ def oxfam_scrape_func():
 
     organisation_to_scrape = 'oxfaminsouthsudan'
 
-    browser = webdriver.Chrome(chrome_options=chrome_options, executable_path="C:/Users/aosbo/Downloads/chromedriver_win32/chromedriver.exe")
+    browser = webdriver.Chrome(chrome_options=chrome_options)
 
     browser.get('https://www.facebook.com')
     time.sleep(3)
