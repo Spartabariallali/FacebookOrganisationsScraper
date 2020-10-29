@@ -1,6 +1,5 @@
 from amnesty_scrape import amnesty_scrape_func
 from cafod_scrape import cafod_scrape_func
-from save_the_children_scrape import save_the_children_scrape_func
 from oxfamsouthsudan_scrape import oxfam_scrape_func
 
 
