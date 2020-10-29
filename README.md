@@ -3,7 +3,8 @@
 
 ### Prerequities 
 
-- Selenium Chrome Driver[Here](https://chromedriver.chromium.org/downloads)
+- Selenium Chrome Driver [Here](https://chromedriver.chromium.org/downloads)
+- Most likely, this will needed to bet added to your executable path, this is shown for both Mac and Windows [Here](https://zwbetz.com/download-chromedriver-binary-and-add-to-your-path-for-automated-functional-testing/)
 
 
 ### Clone the Repository
