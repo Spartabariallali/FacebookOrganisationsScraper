@@ -1,0 +1,5 @@
+python-decouple
+ipython
+selenium
+bs4
+pandas
