@@ -3,28 +3,28 @@
 
 ### Prerequities 
 
-- Selenium Driver
+- Selenium Chrome Driver[Here](https://chromedriver.chromium.org/downloads)
 
 
 ### Clone the Repository
 
-"""
+```bash
 git clone https://github.com/aosborne17/Facebook-Marketplace-Script.git
-"""
+```
 
 ### Create and Activate Virtual Environment
 
-"""
+```python
 pip install virtualenv
 virtualenv venv
 venv\Scripts\activate
-"""
+```
 
 ### Install the requirements
 
-"""
+```python
 pip install -r requirements.txt
-"""
+```
 
 ### Adding Login Credentials
 
@@ -35,9 +35,9 @@ pip install -r requirements.txt
 
 ### Running the Application
 
-"""
+```python
 python main.py
-"""
+```
 
 ### Future Additions
 
